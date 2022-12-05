@@ -1,2 +1,2 @@
 #!/bin/bash
-taill -n 10 /etc/passwd
+taill 10 /etc/passwd
